@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-# Overview-Readme
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorTrifunovic&theme=blue-green"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=IgorTrifunovic"/>
 
