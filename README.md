@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+| ![Most Used Languages](https://github-stats.jinliming2.com/api/top-langs/?username=IgorTrifunovic&layout=compact&bg_color=transparent&title_color=abd200&text_color=3fb950&hide_border=1&langs_count=10&exclude_repo=RTL8822CE-driver,BiliBili-UWP) | ![GitHub Stats](https://github-stats.jinliming2.com/api?username=IgorTrifunovic&show_icons=true&count_private=true&hide_title=true&bg_color=transparent&title_color=abd200&text_color=3fb950&icon_color=abd200&hide_border=1&line_height=33) |
+
+
 <!--
 **IgorTrifunovic/IgorTrifunovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
