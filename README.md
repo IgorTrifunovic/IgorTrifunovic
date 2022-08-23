@@ -23,8 +23,9 @@ Here are some ideas to get you started:
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorTrifunovic&theme=blue-green&count-private=true"/>
+<!--
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=IgorTrifunovic"/>
-
+-->
 
 
 
