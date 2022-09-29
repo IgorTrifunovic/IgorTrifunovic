@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
+<!--     POREDJAJ BEDZEVE PO RELEVANTNOSTI, DODAJ DOCKER
+-->
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorTrifunovic&theme=blue-green&count-private=true"/>
 
